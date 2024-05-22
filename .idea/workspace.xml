@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94d496ec-e089-42b7-8314-ef70f975c912" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "master",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "ruby.structure.view.model.defaults.configured": "true"
+  }
+}]]></component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="false" RAKE_SPRING_PRE_LOADER_OPTION="false" RAILS_SPRING_PRE_LOADER_OPTION="false" />
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
